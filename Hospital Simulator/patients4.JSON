@@ -1,0 +1,6 @@
+[{ "name" : "Ida", "condition" : "Cancer", "topography" : "Head & Neck" },
+{ "name" : "Fia", "condition" : "Cancer", "topography" : "Breast" },
+{ "name" : "Belle", "condition" : "Cancer", "topography" : "Breast"},
+{ "name" : "Nils", "condition" : "Cancer", "topography" : "Head & Neck"},
+{ "name" : "Fabian", "condition" : "Cancer", "topography" : "Head & Neck" }
+]

@@ -1,0 +1,3 @@
+[{ "name" : "MachineA", "capability" : "Advanced" },
+{ "name" : "MachineB", "capability" : "Advanced" },
+{ "name" : "MachineC", "capability" : "Simple" }]

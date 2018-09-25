@@ -1,0 +1,6 @@
+[{ "name" : "Stefan", "condition" : "Cancer", "topography" : "Breast" },
+{ "name" : "Elin", "condition" : "Flu"},
+{ "name" : "Rebecca", "condition" : "Cancer", "topography" : "Head & Neck"},
+{ "name" : "Tobias", "condition" : "Flu"},
+{ "name" : "Lisa", "condition" : "Cancer", "topography" : "Breast" }
+]
